@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+    color: #333;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.skills {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.skills h2 {
+    color: darkgreen;
+}
+
+.skills ul {
+    list-style-type: square;
+}
